@@ -6,7 +6,7 @@
 <% 
 String url = "jdbc:mysql://localhost:3306/BARBEERDRINKERPLUS?serverTimezone=UTC";
 String username ="root";
-String password ="swami100";
+String password ="---";
 	StringBuilder myData=new StringBuilder();
 	String strData ="";
     String chartTitle="";
